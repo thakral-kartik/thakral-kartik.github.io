@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kartik Thakral / Site Title"
+title                    : "Kartik Thakral"
 title_separator          : "-"
 name                     : &name "Kartik Thakral"
 description              : &description "personal description"
@@ -24,13 +24,13 @@ author:
   # Biographic information
   # avatar           : "profile.png"
   avatar           : "kartik.jpg"
-  name             : "Your Sidebar Name"
+  # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Jodhpur, India"
+  employer         : "Indian Institute of Technology Jodhpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "thakral.1@iitj.ac.in" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/thakral-kartik/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "thakralkartik78" # Username - Update with your username on the site
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
