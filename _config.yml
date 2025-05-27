@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # avatar           : "profile.png"
-  avatar           : "kartik.jpg"
+  avatar           : "images/kartik.jpg"
   # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Jodhpur, India"
-  employer         : "Indian Institute of Technology Jodhpur"
+  employer         : "IIT Jodhpur"
   uri              : # URL
   email            : "thakral.1@iitj.ac.in" 
 
