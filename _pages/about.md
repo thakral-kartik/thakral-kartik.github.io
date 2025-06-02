@@ -15,10 +15,10 @@ Before beginning my doctoral studies, I was an undergraduate researcher under [P
 
 Events and Updates
 ======
-- May 2025: **Co-organizer** of [Genμ Challenge at U&ME'25 Workshop][https://unlearning.iab-rubric.org] at ICCV’25, Honolulu, USA, Oct 2025.
+- May 2025: **Co-organizer** of [Genμ Challenge at U&ME'25 Workshop](https://unlearning.iab-rubric.org) at ICCV’25, Honolulu, USA, Oct 2025.
 - May 2025: Paper accepted at InterSpeech'25.
 - May 2025: Paper accepted at ICML'25.
-- May 2025: **Co-organizer** of the [Workshop on Unmasking (Truly) Deepfakes][https://idiap.ch/~kkotwal/cai1.html#speakers] - IEEE CAI'25
-- April 2025: **Co-organizer** of the [2nd Unlearning and Model Editing (U&ME’25)][https://sites.google.com/view/u-and-me-workshop/] at ICCV’25, Honolulu, USA, Oct 2025.
+- May 2025: **Co-organizer** of the [Workshop on Unmasking (Truly) Deepfakes](https://idiap.ch/~kkotwal/cai1.html#speakers) - IEEE CAI'25
+- April 2025: **Co-organizer** of the [2nd Unlearning and Model Editing (U&ME’25)](https://sites.google.com/view/u-and-me-workshop/) at ICCV’25, Honolulu, USA, Oct 2025.
 - April 2025: Presented the poster at ICLR'25.
 - Feb 2025: Paper accepted at CVPR'25.
